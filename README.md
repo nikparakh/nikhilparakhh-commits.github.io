@@ -1,2 +1,3 @@
-# nikhilparakhh-commits.github.io
-Nikhil Parakh — Marketing &amp; Finance portfolio
+# Nikhil Parakh — Marketing Portfolio
+
+Marketing + Finance student at Wayne State University. This repository hosts the source for my portfolio website.
