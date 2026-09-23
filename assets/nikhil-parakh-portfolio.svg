@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f5f2"/>
+  <rect x="0" y="0" width="32" height="630" fill="#3155d9"/>
+  <circle cx="105" cy="92" r="31" fill="#101114"/>
+  <text x="105" y="101" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">NP</text>
+  <text x="74" y="242" font-family="Arial, sans-serif" font-size="88" font-weight="750" letter-spacing="-5" fill="#101114">Nikhil Parakh</text>
+  <text x="78" y="315" font-family="Arial, sans-serif" font-size="32" font-weight="500" fill="#101114">Marketing strategy · Research · Campaign execution</text>
+  <text x="78" y="381" font-family="Arial, sans-serif" font-size="24" fill="#63666d">Marketing + Finance · Wayne State University · December 2026</text>
+  <line x1="78" y1="457" x2="1122" y2="457" stroke="#d9dad6" stroke-width="2"/>
+  <text x="78" y="518" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#3155d9">nikparakh.com</text>
+  <text x="1122" y="518" text-anchor="end" font-family="Arial, sans-serif" font-size="21" fill="#63666d">Multi-brand marketing portfolio</text>
+</svg>
