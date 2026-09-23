@@ -164,7 +164,7 @@ td { font-size: .86rem; }
 
 @media (max-width: 900px) {
   .site-header { grid-template-columns: 1fr auto; }
-  .site-header nav { grid-column: 1 / -1; order: 3; width: 100%; overflow-x: auto; padding-top: .8rem; border-top: 1px solid var(--line); }
+  .site-header nav { grid-column: 1 / -1; order: 3; width: 100%; min-width: 0; overflow-x: auto; padding-top: .8rem; border-top: 1px solid var(--line); }
   .hero { min-height: auto; grid-template-columns: 1fr; gap: 3rem; }
   .proof-panel { min-height: auto; }
   .work-intro, .sfv-hub, .case-heading, .case-grid, .about, .skills { grid-template-columns: 1fr; }
